@@ -3,7 +3,8 @@ source 'https://rubygems.org'
 gem 'devise'
 gem 'carrierwave'
 gem 'mini_magick'
-gem "font-awesome-rails"
+gem 'font-awesome-rails'
+gem 'acts-as-taggable-on'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.0'
